@@ -1,0 +1,57 @@
+body {
+  padding-top: 4.2rem;
+  padding-bottom: 4.2rem;
+  background: #fff;
+}
+a {
+  text-decoration: none !important;
+}
+h1 {
+  font-family: 'Kaushan Script', cursive;
+}
+.myform {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  width: 100%;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 1.1rem;
+  max-width: 500px;
+}
+.mybtn {
+  border-radius: 50px;
+}
+
+.mylogin {
+  position: relative;
+  color: #aaa;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.myspan {
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: -2px;
+  margin-left: -25px;
+  background-color: #fff;
+  width: 50px;
+  text-align: center;
+}
+.myhr {
+  height: 1px;
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
+.mysingup {
+  color: #666;
+  width: 100%;
+  height: 40px;
+  text-align: center;
+  border: 1px solid lightgrey;
+}
